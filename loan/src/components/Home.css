@@ -1,3 +1,8 @@
+body{
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+}
 .main {
     text-align: center;
     justify-content: center;
@@ -14,7 +19,7 @@
     box-shadow: 5px 12px 5px 2px rgb(207, 207, 207);
     padding-top: 30px;
     border-radius: 20px; 
-    background-color: white;
+    background-color: #A5C9CA;
   }
   .imgs {
     padding-top: 20px;

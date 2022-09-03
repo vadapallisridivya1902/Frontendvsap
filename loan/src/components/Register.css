@@ -1,0 +1,11 @@
+.backgroundview{
+    background-color: #A5C9CA;
+    width: 600px;
+    height: 650px;
+    border-radius: 20px;
+}
+.backgroundview h1{
+    color:#1F4690;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
