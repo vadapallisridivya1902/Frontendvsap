@@ -1,10 +1,11 @@
 import Register from './components/Register';
+import Form from "./components/form"
 
 function App() {
 
   return (
     <main className="App">
-      <Register />
+      <Form />
     </main>
   );
 }
