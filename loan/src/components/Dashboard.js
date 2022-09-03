@@ -1,12 +1,10 @@
 import React from'react';
-import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import {Navbar,Nav ,NavDropdown,Container} from 'react-bootstrap';
 
 import Card from 'react-bootstrap/Card';
 import CardGroup from 'react-bootstrap/CardGroup';
 
-function App() {
+function Dashboard() {
   return (
     <div className="App">
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
@@ -96,4 +94,4 @@ function App() {
   );
 }
 
-export default App;
+export default Dashboard;
