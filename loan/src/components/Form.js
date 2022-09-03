@@ -7,7 +7,7 @@ export default function Form() {
     const{register, handleSubmit,formState:{errors}}= useForm()
     const onSubmit=data=>console.log(data);
 
-    //console.log(Watch('Name'));
+  //console.log(Watch('Name'));
   return (
     <section>
         <div className="register">

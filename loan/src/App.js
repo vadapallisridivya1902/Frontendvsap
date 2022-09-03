@@ -1,6 +1,6 @@
 import Register from './components/Register';
-import Form from "./components/form"
-
+import Form from "./components/Form"
+import "./components/form.css"
 function App() {
 
   return (
